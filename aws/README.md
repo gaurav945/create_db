@@ -16,4 +16,4 @@ Note that this example may create resources which cost money.
 
 ## Adding more configurations
 
-More configurations can be added to this file, which will create a DB accordingly. Here is a complete [list](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/db_instance#rds-instance-class-types) of available settings.
+More configurations can be added to this file, which will create a DB accordingly. Here is a complete [list](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/db_instance) of available settings.
