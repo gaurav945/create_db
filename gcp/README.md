@@ -16,5 +16,5 @@ Note that this example may create resources which cost money.
 
 ## Adding more configurations
 
-More configurations can be added to this file, which will create a DB accordingly. Here is a complete [list](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/sql_database_instance) of available settings.
+This file can be updated according to our needed requirements & more configurations can be added, which will create a DB accordingly. Here is a complete [list](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/sql_database_instance) of available settings.
 
