@@ -12,6 +12,8 @@ $ terraform plan
 $ terraform apply
 ```
 
+In order to see the outputs of above commands, please refer aws [readme](aws/README.md).
+
 Note that this example may create resources which cost money.
 
 ## Adding more configurations

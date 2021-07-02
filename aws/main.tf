@@ -14,5 +14,7 @@ resource "aws_db_instance" "default" {
 
   storage_type = "gp2"
   multi_az = "false"
+
+  apply_immediately = "true"
 }
 
